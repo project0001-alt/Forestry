@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/project0001-alt/Forestry/issues"
   },
-  "homepage": "https://github.com/project0001-alt/Forestry#readme"
+  "homepage": "https://github.com/project0001-alt/Forestry#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "openzeppelin-solidity": "4.1.0"
+  }
 }
