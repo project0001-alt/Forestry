@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/project0001-alt/Forestry#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.1.0",
-    "openzeppelin-solidity": "4.1.0"
+    "@openzeppelin/contracts": "^4.1.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.11",
+    "chai": "^4.3.4"
   }
 }
